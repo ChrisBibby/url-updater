@@ -3,6 +3,8 @@
   "name": "URL Replacer",
   "version": "1.0",
   "description": "Replace image source URLs",
+  "author": "Chris Bibby",
+  "homepage_url": "https://github.com/ChrisBibby/url-updater",
   "permissions": [
     "activeTab",
     "storage",
