@@ -1,0 +1,8 @@
+out
+dist
+.coverage
+node_modules
+.vscode-test/
+*.zip
+.dccache
+.DS_Store
